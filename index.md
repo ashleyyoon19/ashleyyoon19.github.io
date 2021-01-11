@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Ashley Yoon's Portfolio Page
 
-You can use the [editor on GitHub](https://github.com/ashleyyoon19/ashleyyoon19.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Ashley Yoon, and I'm currently a sophomore at the University of 
+Rochester intending on majoring in Computer Science. I'm interested in Software 
+Development/Engineering, Full Stack, UX/UI Design, and Mobile App Development. 
+I'll be updating this page for my projects -- feel free to look around!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Portfolio
+### UX/UI Design
+### Course Projects
 
 ### Markdown
 
@@ -26,12 +31,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashleyyoon19/ashleyyoon19.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
