@@ -8,9 +8,8 @@ We then presented our final product to the STEM-Away users, stakeholders, and fo
 at the end.
 
 As the nature of this internship was remote, everyone was in different time zones.
-Because of this, I communicated frequently with the project leads and team members alike
-to coordinate meeting times (outside of our regular meetings with the project leads)
-and tried to 
+Because of this, I communicated frequently with the project leads and team members alike to coordinate meeting times (outside of our regular meetings with the project leads) and tried to distribute and organize daily/weekly tasks and goals within our
+group.
 
 ## Process:
 
@@ -67,6 +66,7 @@ To do this, we:
 - Using the data that we collected and analyzed, we came up with a rough sketch of
 the mobile interface to tackle the problems that came up in our interviews.
 - Some of the features implemented in our wireframe and prototypes were:
+
 ```
 1. Collapsibles to minimize clutter on the homepage
 2. Sort-by button for users to organize groups based on their preference
@@ -81,6 +81,7 @@ as our "final" low-fidelity prototype.
 - The design was also made interactive so that users could click through the elements on
 the page.
 - Additional features we implemented in our low-fidelity prototype were:
+
 ```
 1. The "lock" and "pin" icons to make the platform more user-friendly
 (locks for private groups, pins to indicate which groups the user "prioritized" or
@@ -95,6 +96,7 @@ using Figma.
 - After receiving feedback from the project leads, we adjusted our designs accordingly
 and brushed up on the colors and additional details.
 - Some of these adjustments were:
+
 ```
 1. Reorganizing and making texts, shapes, etc. bigger to minimize whitespace
 2. Adding colors that matched the STEM-Away platform and were the best representation
