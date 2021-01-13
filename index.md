@@ -6,7 +6,7 @@ Development/Engineering, Full Stack, UX/UI Design, and Mobile App Development.
 I'll be updating this page for my projects -- feel free to look around!
 
 ## Portfolio
-### UX/UI Design
+### [UX/UI Design](https://github.com/ashleyyoon19/ashleyyoon19.github.io/blob/main/uxui.md)
 ### Course Projects
 
 ### Markdown
