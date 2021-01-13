@@ -11,6 +11,8 @@ As the nature of this internship was remote, everyone was in different time zone
 Because of this, I communicated frequently with the project leads and team members alike to coordinate meeting times (outside of our regular meetings with the project leads) and tried to distribute and organize daily/weekly tasks and goals within our
 group.
 
+---
+
 ## Process:
 
 ### *Defining the Problem*
@@ -107,6 +109,8 @@ for different pathways (EX. Bioinformatics, UX/UI, Machine Learning, etc)
 through many pages to warrant breadcrumbs, and b) scrolling is more natural for mobile users 
 than clicking buttons on-screen
 ```
+
+---
 
 Our Low & Final High-Fidelity Prototypes:
 ![](low-fi.png) ![](stemaway.png)
